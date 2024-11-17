@@ -48,10 +48,10 @@ npm install
 
 ```bash
 
-MONGODB_URL=your_mongodb_connection_string
-PORT=5000
-SECRET_KEY=your_secret_key
-
+PORT="Your backen port number"
+MONGO_URI="your mongo uri"
+JWT_SECRET=your random jwt secret
+FRONTEND_URL=your frontend FRONTEND_URL
 
 
 ```
