@@ -1,0 +1,4 @@
+PORT="Your backen port number"
+MONGO_URI="your mongo uri"
+JWT_SECRET=your random jwt secret
+FRONTEND_URL=your frontend FRONTEND_URL
