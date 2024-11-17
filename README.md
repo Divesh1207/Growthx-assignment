@@ -10,7 +10,6 @@ This Assignment Submission Portal allows **users** to upload assignments and **a
   - [Frontend Setup](#frontend-setup)
 - [Environment Variables](#environment-variables)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 - [License](#license)
 
 ## Features
